@@ -1,0 +1,10 @@
+# Mac stuff
+.DS_Store
+
+# Java
+*.class
+/suite/
+
+# FRC Stuff
+/build/
+/nbproject/private/
